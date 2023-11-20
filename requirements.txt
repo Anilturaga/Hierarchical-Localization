@@ -12,3 +12,4 @@ kornia>=0.6.11
 gdown
 uvicorn
 fastapi
+python-multipart
